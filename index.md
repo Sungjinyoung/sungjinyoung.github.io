@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 전공생의 코딩 홈페이지
 
-You can use the [editor on GitHub](https://github.com/Sungjinyoung/sungjinyoung.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+실력 좀 키우자
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+프론트엔드 개발자가 되기 위한 연습
 
 ### Markdown
 
